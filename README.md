@@ -1,6 +1,6 @@
 # Drug Adverse Events for Children
 
-:pill: Drug adverse events are an important preventable cause of morbidity and mortality.:pill:
+Drug adverse events are an important preventable cause of morbidity and mortality.
 
 This project used Python, Google Sheets, AWS Lambda, and Looker Studio to surface insights on drug adverse events for children in the United States.
 
