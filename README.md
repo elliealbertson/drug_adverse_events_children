@@ -2,7 +2,7 @@
 
 Drug adverse events are an important preventable cause of morbidity and mortality.
 
-This project used Python, Google Sheets, AWS Lambda, and Looker Studio to surface insights on drug adverse events for children in the United States.
+This project used Python, Google Sheets, AWS Lambda, and Looker Studio to surface insights on drug adverse events for children age 17 and under.
 
 Key steps in this project:
 - Used the `requests` module to get JSON data from the API of the [FDA Adverse Event Reporting System](https://open.fda.gov/apis/drug/event/)
