@@ -1,6 +1,6 @@
 # Drug Adverse Events for Children
 
-Drug adverse events are an important preventable cause of morbidity and mortality.
+Prescription drug adverse events are an important preventable cause of morbidity and mortality.
 
 This project used Python, Google Sheets, AWS Lambda, and Looker Studio to surface insights on drug adverse events for children age 17 and under.
 
