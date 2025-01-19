@@ -10,4 +10,4 @@ Key steps in this project:
 - Used the `gspread` module to export the data to Google Sheets
 - Used the `email` and `smtplib` modules with secure environment variables containing credentials to send emails indicating if code execution succeeded or failed
 - Formatted code for AWS Lambda and scheduled a trigger to run the job automatically on a regular basis
-- Visualized data in an interactive Google Looker Studio report that can be filtered by manufacturer, drug, and other factors [here](https://lookerstudio.google.com/s/q0aqioaWLK4)
+- Visualized data in an interactive Google Looker Studio report that can be filtered by manufacturer, drug, and other factors [here](https://lookerstudio.google.com/s/qeUgRiD7eLo)
